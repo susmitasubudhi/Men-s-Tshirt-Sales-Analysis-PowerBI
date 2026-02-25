@@ -28,4 +28,5 @@ CSV → MySQL → Power BI
 - Highlighted brands with maximum product variety.
 - Analyzed pricing vs profit relationships.
 - ## Dashboard Preview
-<img width="1466" height="739" alt="Screenshot 2026-01-30 132309" src="https://github.com/user-attachments/assets/e42840ec-891c-4bd1-818c-1c810272a58c" />
+<img width="1540" height="728" alt="image" src="https://github.com/user-attachments/assets/1b194fc3-f208-40ef-8b7b-47f193c65a7f" />
+
