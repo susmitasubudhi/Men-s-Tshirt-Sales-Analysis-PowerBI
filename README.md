@@ -18,15 +18,17 @@ CSV → MySQL → Power BI
 - DAX
 - Excel / CSV
 - ## Key KPIs & Analysis
-- Top 5 brands by Discount %
-- Top 5 brands by Number of Varieties
+- Top 5 brands by Average Discount %
+- Top 5 brands by Highest Number of Varieties
 - Top 5 brands by Average Profit %
 - Top 5 brands by Average Sales Price
 - Bottom 5 brands by Average Profit %
+- Max Revenue By Top 5 Brands
 - ## Business Insights
 - Identified highly discounted brands with low profitability.
 - Highlighted brands with maximum product variety.
 - Analyzed pricing vs profit relationships.
 - ## Dashboard Preview
-<img width="1540" height="728" alt="image" src="https://github.com/user-attachments/assets/1b194fc3-f208-40ef-8b7b-47f193c65a7f" />
+
+<img width="1536" height="722" alt="Screenshot 2026-02-25 162040" src="https://github.com/user-attachments/assets/9a1c7bee-5255-4df8-a4b5-11233c059002" />
 
