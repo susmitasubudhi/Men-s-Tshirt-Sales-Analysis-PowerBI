@@ -28,6 +28,7 @@ CSV → MySQL → Power BI
 - Identified highly discounted brands with low profitability.
 - Highlighted brands with maximum product variety.
 - Analyzed pricing vs profit relationships.
+- Identified Brands That generate maximum revenue
 - ## Dashboard Preview
 
 <img width="1536" height="722" alt="Screenshot 2026-02-25 162040" src="https://github.com/user-attachments/assets/9a1c7bee-5255-4df8-a4b5-11233c059002" />
