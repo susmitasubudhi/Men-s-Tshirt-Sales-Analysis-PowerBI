@@ -20,6 +20,7 @@ and to determine whether aggressive discount actually leads to higher revenue
 -  Compare Brand Psoitioning across volume-driven and premium strategies
 
 ## 📊 Key Insights
+### Pricing vs Volume Strategy Finding
 - Indian Garage Co drives customer demand through a wide product assortment and aggressive discounting, resulting in the highest sales volume.
 - However, lower selling prices reduce revenue per unit.
 - Premium brands like Armani Exchange achieve higher revenue efficiency through pricing power rather than product variety.
