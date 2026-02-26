@@ -1,6 +1,8 @@
 # Men-s-Tshirt-Sales-Analysis-PowerBI|MYSQL
 ## Objectives
 Analyze men's T-shirt sales data to evaluate brand performance, profitability, and pricing strategy using Power BI and MySQL.
+## 👕 Retail Pricing & Discount Strategy Analysis
+A data-driven analysis exploring the trade-off between pricing, discounts, and sales volume to identify revenue optimization strategies in fashion retail.
 ## Business Problem
 A fashion retail company wants to evaluate how pricing and discount strategies impact brand performance in the men's T-shirt Category .
 While Higher discounts are expected to increase sales and revenue, management observed inconsistent revenue performance across brands.
