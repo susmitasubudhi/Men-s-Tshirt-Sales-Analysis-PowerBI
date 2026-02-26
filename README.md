@@ -67,4 +67,5 @@ CSV → MySQL → Power BI
 
 - ## Dashboard Preview
 
-<img width="1720" height="728" alt="Screenshot 2026-02-26 192832" src="https://github.com/user-attachments/assets/23893596-0762-4967-b1d5-ec23644347ae" />
+<img width="1718" height="722" alt="Screenshot 2026-02-26 194818" src="https://github.com/user-attachments/assets/696195c3-cf0a-4b69-bd67-23df0a38c11b" />
+
